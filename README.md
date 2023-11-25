@@ -1,4 +1,4 @@
-View this project at: [http://musicmo.demo.zixiaoma.com](http://musicmo.demo.zixiaoma.com)
+***View this project at: [http://musicmo.demo.zixiaoma.com](http://musicmo.demo.zixiaoma.com)***
 
 # COMP3030J-Musical-Instrument-Shop - Software Engineering Project 2021-2022
 ## Group 8: IllegalGroupNameException
