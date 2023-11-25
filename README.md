@@ -1,3 +1,5 @@
+View this project at: [musicmo.demo.zixiaoma.com](musicmo.demo.zixiaoma.com)
+
 # COMP3030J-Musical-Instrument-Shop - Software Engineering Project 2021-2022
 ## Group 8: IllegalGroupNameException
 Your software engineering team has been hired to meet the needs of a client, a local Musical Instrument Shop. This shop is family-owned and has sold musical instruments locally for years. All of their business to-date is walk-in retail customers.
