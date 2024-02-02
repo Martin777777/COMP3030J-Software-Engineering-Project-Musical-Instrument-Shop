@@ -204,10 +204,6 @@ REST_FRAMEWORK = {
 
 CORS_ALLOW_CREDENTIALS = True
 CORS_ORIGIN_ALLOW_ALL = True
-# Origin '*' in CORS_ORIGIN_WHITELIST is missing scheme 出现该错误则将其注释掉
-CORS_ORIGIN_WHITELIST = (
-  "*"
-)
 CORS_ALLOW_METHODS = (
   'DELETE',
   'GET',
